@@ -10,6 +10,7 @@ must implement:
 
 * Without using the StringBuilder or StringBuffer class, write a method that reverses a String.
 * Convert a phrase to its acronym.
+	
 * Determine if a triangle is equilateral, isosceles, or scalene. 
 * Given a word, compute the scrabble score for that word.
 * Clean up user-entered phone numbers so that they can be sent SMS messages.
